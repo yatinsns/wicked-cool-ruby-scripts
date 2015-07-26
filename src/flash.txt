@@ -1,0 +1,3 @@
+city      delhi
+name      yatin
+age       28
